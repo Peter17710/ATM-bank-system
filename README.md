@@ -10,12 +10,12 @@ The ATM Bank System is a Node.js-based application designed to simulate basic ba
 - **Database**: MySQL database integration with Sequelize for efficient data handling.
 
 ## Technologies Used
-Node.js: Backend runtime environment.
-Express.js: Web framework for routing and middleware.
-Sequelize: ORM for database interaction.
-MySQL: Relational database for data storage.
-bcrypt: Password hashing for secure authentication.
-jsonwebtoken: Token-based authentication.
+- **Node.js**: Backend runtime environment.
+- **Express.js**: Web framework for routing and middleware.
+- **Sequelize**: ORM for database interaction.
+- **MySQL**: Relational database for data storage.
+- **bcrypt**: Password hashing for secure authentication.
+- **jsonwebtoken**: Token-based authentication.
 
 ## Installation
 1. Clone the repository:
